@@ -14,3 +14,5 @@ Name: Tyler Robinson
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) If I had more time to work on this, I would dig deeper into how the frequences in JavaScript work, specifically looking into what frequencies correspond to what musical notes. Then, I would add more buttons and arrange the pattern so that it plays a known song or jingle. I'd also look for ways to store multiple patterns and have a new pattern/song played each time the user starts the game. Another feature that would be interesting to explore is other game modes. One potentia game mode would be Simon Says, where the player is only supposed to repeat a button press if the button lights up and displays a sound. If the button lights up without sound and the user presses it, they would lose.
 -------------------
+
+
